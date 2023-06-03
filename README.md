@@ -39,3 +39,4 @@
 ## Credits
 Perfect Privacy Browser made by [Hax0rX](https://github.com/Hax0rX) and [Perfect Privacy Company](https://www.perfect-privacy.com/)
 <br />
+ 
